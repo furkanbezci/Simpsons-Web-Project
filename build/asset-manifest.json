@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Simpsons-Web-Project/static/css/main.4243abc1.css",
+    "main.js": "/Simpsons-Web-Project/static/js/main.24331afa.js",
+    "static/js/787.681f70be.chunk.js": "/Simpsons-Web-Project/static/js/787.681f70be.chunk.js",
+    "static/media/icons-20.eot": "/Simpsons-Web-Project/static/media/icons-20.cde033c5d3f24283f757.eot",
+    "static/media/icons-20.woff": "/Simpsons-Web-Project/static/media/icons-20.1ef633d3a28d0986f63e.woff",
+    "static/media/icons-20.ttf": "/Simpsons-Web-Project/static/media/icons-20.57b3e708b232fdcb64f9.ttf",
+    "static/media/icons-16.eot": "/Simpsons-Web-Project/static/media/icons-16.2368f88a078780d80145.eot",
+    "static/media/icons-16.woff": "/Simpsons-Web-Project/static/media/icons-16.1645f50fb7f7c109f64e.woff",
+    "static/media/icons-16.ttf": "/Simpsons-Web-Project/static/media/icons-16.13933033991f62d6bb64.ttf",
+    "index.html": "/Simpsons-Web-Project/index.html",
+    "main.4243abc1.css.map": "/Simpsons-Web-Project/static/css/main.4243abc1.css.map",
+    "main.24331afa.js.map": "/Simpsons-Web-Project/static/js/main.24331afa.js.map",
+    "787.681f70be.chunk.js.map": "/Simpsons-Web-Project/static/js/787.681f70be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4243abc1.css",
+    "static/js/main.24331afa.js"
+  ]
+}
